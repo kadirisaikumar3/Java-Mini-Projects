@@ -1,7 +1,26 @@
 <p align="center">
-  <img src="assets/java-mini-projects-banner.png"
-       alt="Java Mini Projects Banner"
-       width="100%">
+  <img src="assets/java-mini-projects-banner.png" alt="Java Mini Projects Banner" width="100%">
+</p>
+
+<h1 align="center">🚀 Java Mini Projects</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21%20Projects-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Challenge-21%20Days-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20SDE-Preparation-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-Core%20Java-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects%20Completed-4%2F21-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-19%25-success?style=for-the-badge"/>
 </p>
 
 # 🚀 Java Mini Projects
