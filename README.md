@@ -60,7 +60,7 @@ Java-Mini-Projects
 | ✅ Day 1  | Calculator App                | Completed   |
 | ✅ Day 2  | Student Management System     | Completed   |
 | ✅ Day 3  | Bank Management System        | Completed   |
-| ⏳ Day 4  | Number Guessing Game          | Coming Soon |
+| ✅ Day 4  | Number Guessing Game          | Completed   |
 | ⏳ Day 5  | Employee Management System    | Coming Soon |
 | ⏳ Day 6  | Contact Management System     | Coming Soon |
 | ⏳ Day 7  | Library Management System     | Coming Soon |
