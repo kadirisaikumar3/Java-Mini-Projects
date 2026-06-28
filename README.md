@@ -4,7 +4,7 @@
 
 <h1 align="center">🚀 Java Mini Projects</h1>
 
-```html
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21%20Projects-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Challenge-21%20Days-blue?style=for-the-badge"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Projects%20Completed-5%2F21-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Progress-24%25-success?style=for-the-badge"/>
 </p>
-```
+
 
 # 🚀 Java Mini Projects
 
