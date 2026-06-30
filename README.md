@@ -76,30 +76,31 @@ Java-Mini-Projects
 
 # 📅 21-Day Progress Tracker
 
-| Day      | Project                       | Status      |
-| -------- | ----------------------------- | ----------- |
-| ✅ Day 1  | Calculator App                | Completed   |
-| ✅ Day 2  | Student Management System     | Completed   |
-| ✅ Day 3  | Bank Management System        | Completed   |
-| ✅ Day 4  | Number Guessing Game          | Completed   |
-| ✅ Day 5  | Contact Management System     | Completed   |
-| ✅ Day 6  | Library Management System     | Completed   | 
-| ✅ Day 7  | To-Do List Manager            | Completed   |
-| ⏳ Day 8  | To-Do List Manager            | Coming Soon |
-| ⏳ Day 9  | Quiz Application              | Coming Soon |
-| ⏳ Day 10 | Expense Tracker               | Coming Soon |
-| ⏳ Day 11 | ATM Simulation                | Coming Soon |
-| ⏳ Day 12 | Movie Ticket Booking System   | Coming Soon |
-| ⏳ Day 13 | Inventory Management System   | Coming Soon |
-| ⏳ Day 14 | Hotel Reservation System      | Coming Soon |
-| ⏳ Day 15 | File-Based Student Management | Coming Soon |
-| ⏳ Day 16 | Notes Manager                 | Coming Soon |
-| ⏳ Day 17 | Password Generator            | Coming Soon |
-| ⏳ Day 18 | Voting System                 | Coming Soon |
-| ⏳ Day 19 | Online Shopping Cart          | Coming Soon |
-| ⏳ Day 20 | Parking Lot System            | Coming Soon |
-| ⏳ Day 21 | Mini E-Commerce App           | Coming Soon |
+## 📅 21-Day Progress Tracker
 
+| Day      | Project                              | Status      |
+|----------|--------------------------------------|-------------|
+| ✅ Day 1  | Calculator App                       | Completed   |
+| ✅ Day 2  | Student Management System            | Completed   |
+| ✅ Day 3  | Bank Management System               | Completed   |
+| ✅ Day 4  | Number Guessing Game                 | Completed   |
+| ✅ Day 5  | Contact Management System            | Completed   |
+| ✅ Day 6  | Library Management System            | Completed   |
+| ✅ Day 7  | To-Do List Manager                   | Completed   |
+| ⏳ Day 8  | Quiz Application                     | Coming Soon |
+| ⏳ Day 9  | Expense Tracker                      | Coming Soon |
+| ⏳ Day 10 | ATM Simulation                       | Coming Soon |
+| ⏳ Day 11 | Movie Ticket Booking System          | Coming Soon |
+| ⏳ Day 12 | Inventory Management System          | Coming Soon |
+| ⏳ Day 13 | Hotel Reservation System             | Coming Soon |
+| ⏳ Day 14 | File-Based Student Management System | Coming Soon |
+| ⏳ Day 15 | Notes Manager                        | Coming Soon |
+| ⏳ Day 16 | Password Generator                   | Coming Soon |
+| ⏳ Day 17 | Voting System                        | Coming Soon |
+| ⏳ Day 18 | Online Shopping Cart                 | Coming Soon |
+| ⏳ Day 19 | Parking Lot Management System        | Coming Soon |
+| ⏳ Day 20 | Employee Payroll System              | Coming Soon |
+| ⏳ Day 21 | Mini E-Commerce Console App          | Coming Soon |
 ---
 
 ## 📚 Java Concepts Covered
