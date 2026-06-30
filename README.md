@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-6%2F21-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Progress-29%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Completed-7%2F21-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Progress-33%25-success?style=for-the-badge"/>
 </p>
 
 
@@ -84,7 +84,7 @@ Java-Mini-Projects
 | ✅ Day 4  | Number Guessing Game          | Completed   |
 | ✅ Day 5  | Contact Management System     | Completed   |
 | ✅ Day 6  | Library Management System     | Completed   | 
-| ⏳ Day 7  | Library Management System     | Coming Soon |
+| ✅ Day 7  | To-Do List Manager            | Completed   |
 | ⏳ Day 8  | To-Do List Manager            | Coming Soon |
 | ⏳ Day 9  | Quiz Application              | Coming Soon |
 | ⏳ Day 10 | Expense Tracker               | Coming Soon |
