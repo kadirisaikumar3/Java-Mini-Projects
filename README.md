@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-12%2F21-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Progress-57%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Completed-13%2F21-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Progress-62%25-success?style=for-the-badge"/>
 </p>
 
 
