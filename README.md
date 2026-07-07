@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-13%2F21-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Progress-62%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Completed-14%2F21-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Progress-67%25-success?style=for-the-badge"/>
 </p>
 
 
@@ -92,8 +92,8 @@ Java-Mini-Projects
 | ✅ Day 10 | ATM Simulation                       | Completed   |
 | ✅ Day 11 | Movie Ticket Booking System          | Completed   |
 | ✅ Day 12 | Inventory Management System          | Completed   |
-| ⏳ Day 13 | Hotel Reservation System             | Coming Soon |
-| ⏳ Day 14 | File-Based Student Management System | Coming Soon |
+| ✅ Day 13 | Hotel Reservation System             | Completed   |
+| ✅ Day 14 | File-Based Student Management System | Completed   |
 | ⏳ Day 15 | Notes Manager                        | Coming Soon |
 | ⏳ Day 16 | Password Generator                   | Coming Soon |
 | ⏳ Day 17 | Voting System                        | Coming Soon |
