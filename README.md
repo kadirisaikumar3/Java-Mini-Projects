@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-16%2F21-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Progress-76%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Completed-17%2F21-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-81%25-success?style=for-the-badge"/>
 </p>
 
 
@@ -96,7 +96,7 @@ Java-Mini-Projects
 | ✅ Day 14 | File-Based Student Management System | Completed   |
 | ✅ Day 15 | Notes Manager                        | Completed   |
 | ✅ Day 16 | Password Generator                   | Completed   |
-| ⏳ Day 17 | Voting System                        | Coming Soon |
+| ✅ Day 17 | Voting System                        | Completed   |
 | ⏳ Day 18 | Online Shopping Cart                 | Coming Soon |
 | ⏳ Day 19 | Parking Lot Management System        | Coming Soon |
 | ⏳ Day 20 | Employee Payroll System              | Coming Soon |
