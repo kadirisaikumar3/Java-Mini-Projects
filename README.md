@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-20%2F21-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Progress-95%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Completed-21%2F21-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-100%25-success?style=for-the-badge"/>
 </p>
 
 # 🚀 Java Mini Projects
@@ -98,8 +98,8 @@ Java-Mini-Projects
 | ✅ Day 17 | Voting System                        | Completed   |
 | ✅ Day 18 | Online Shopping Cart                 | Completed   |
 | ✅ Day 19 | Parking Lot Management System        | Completed   |
-| ✅ Day 20 | Employee Payroll System              | Completed |
-| ⏳ Day 21 | Mini E-Commerce Console App          | Coming Soon |
+| ✅ Day 20 | Employee Payroll System              | Completed   |
+| ✅ Day 21 | Mini E-Commerce Console App          | Completed   |
 ---
 
 ## 📚 Java Concepts Covered
