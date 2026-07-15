@@ -139,7 +139,7 @@ public class ShoppingCart {
 
         for (Product product : cart) {
 
-            System.out.printf("%-15s ₹%.2f%n",
+            System.out.printf("%-15s Rs%.2f%n",
                     product.getProductName(),
                     product.getPrice());
 
@@ -147,6 +147,6 @@ public class ShoppingCart {
         }
 
         System.out.println("----------------------------");
-        System.out.printf("Total Bill : ₹%.2f%n", total);
+        System.out.printf("Total Bill : Rs%.2f%n", total);
     }
 }

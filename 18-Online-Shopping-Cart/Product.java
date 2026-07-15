@@ -28,6 +28,6 @@ public class Product {
     public String toString() {
         return "Product ID   : " + productId +
                "\nProduct Name : " + productName +
-               "\nPrice        : ₹" + String.format("%.2f", price);
+               "\nPrice        : Rs" + String.format("%.2f", price);
     }
 }

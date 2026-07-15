@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Java Mini Projects</h1>
 
 <p align="center">
-  <b>21 Practical Java Projects built using Core Java, OOP, Collections & File Handling</b>
+  <b>21 Practical Java Projects built using Core Java, OOP, Collections Framework & File Handling</b>
 </p>
 
 <p align="center">
@@ -44,6 +44,7 @@ This repository is part of my **21-Day Java Learning Challenge**, where I built 
 - 📂 Repository Structure
 - 📅 21-Day Progress Tracker
 - 🌟 Featured Projects
+- 📸 Project Screenshots
 - 📚 Java Concepts Covered
 - 🎓 Skills Gained
 - 🚀 Getting Started
@@ -57,7 +58,7 @@ This repository is part of my **21-Day Java Learning Challenge**, where I built 
 # 🎯 Goals
 
 - Master Core Java
-- Build strong OOP fundamentals
+- Build strong Object-Oriented Programming (OOP) fundamentals
 - Practice Java Collections Framework
 - Learn File Handling
 - Improve Problem-Solving Skills
@@ -80,7 +81,7 @@ This repository is part of my **21-Day Java Learning Challenge**, where I built 
 ```text
 Java-Mini-Projects
 │
-├── assets/
+├── assets
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -142,11 +143,70 @@ Java-Mini-Projects
 
 | Project | Description |
 |---------|-------------|
-| 🛒 Mini E-Commerce Console App | Shopping cart, billing, file handling, and order history |
-| 👨‍💼 Employee Payroll System | Employee management with salary and bonus calculation |
-| 🅿️ Parking Lot Management System | Parking slot allocation and vehicle management |
-| 🛍️ Online Shopping Cart | Product management, billing, and checkout |
+| 🛒 Mini E-Commerce Console App | Shopping cart, billing, file handling and order history |
+| 👨‍💼 Employee Payroll System | Employee management with salary & bonus calculation |
+| 🅿️ Parking Lot Management System | Vehicle parking slot allocation system |
+| 🛍️ Online Shopping Cart | Product management and billing |
 | 📄 File-Based Student Management System | CRUD operations using Java File Handling |
+
+---
+# 📸 Project Screenshots
+
+## 🧮 Calculator App
+
+<p align="center">
+  <img src="assets/calculator-app.png" alt="Calculator App" width="85%">
+</p>
+
+---
+
+## 📚 Library Management System
+
+<p align="center">
+  <img src="assets/library-management-system.png" alt="Library Management System" width="85%">
+</p>
+
+---
+
+## 📄 File-Based Student Management System
+
+<p align="center">
+  <img src="assets/file-based-student-management-system.png" alt="File-Based Student Management System" width="85%">
+</p>
+
+---
+
+## 🛒 Online Shopping Cart
+
+<p align="center">
+  <img src="assets/online-shopping-cart.png" alt="Online Shopping Cart" width="85%">
+</p>
+
+---
+
+## 🅿️ Parking Lot Management System
+
+<p align="center">
+  <img src="assets/parking-lot-management-system-1.png" alt="Parking Lot Management System" width="48%">
+  <img src="assets/parking-lot-management-system-2.png" alt="Parking Lot Management System" width="48%">
+</p>
+
+---
+
+## 👨‍💼 Employee Payroll System
+
+<p align="center">
+  <img src="assets/employee-payroll-system.png" alt="Employee Payroll System" width="85%">
+</p>
+
+---
+
+## 🛍️ Mini E-Commerce Console App
+
+<p align="center">
+  <img src="assets/mini-ecommerce-cart.png" alt="Mini E-Commerce Cart" width="48%">
+  <img src="assets/mini-ecommerce-checkout.png" alt="Mini E-Commerce Checkout" width="48%">
+</p>
 
 ---
 
@@ -178,7 +238,7 @@ Java-Mini-Projects
 - 💾 File Handling
 - ⚠️ Exception Handling
 - 🔄 CRUD Operations
-- 🧠 Business Logic
+- 🧠 Business Logic Implementation
 - 🔍 Searching & Validation
 - 📊 Data Management
 - 🌿 Git & GitHub
@@ -188,7 +248,7 @@ Java-Mini-Projects
 
 # 🚀 Getting Started
 
-Clone the repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/kadirisaikumar3/Java-Mini-Projects.git
@@ -200,7 +260,7 @@ Navigate into the repository:
 cd Java-Mini-Projects
 ```
 
-Open any project folder and run:
+Open any project folder and compile:
 
 ```bash
 javac FileName.java
@@ -215,12 +275,12 @@ By completing these **21 Java Mini Projects**, I strengthened my understanding o
 
 - Core Java Programming
 - Object-Oriented Programming (OOP)
-- Collections Framework
+- Java Collections Framework
 - File Handling
 - Exception Handling
 - Business Logic Development
 - CRUD Operations
-- Menu-Driven Applications
+- Menu-Driven Application Development
 - Git & GitHub Workflow
 - Clean Code Practices
 
@@ -228,17 +288,34 @@ By completing these **21 Java Mini Projects**, I strengthened my understanding o
 
 # 🌟 About This Repository
 
-This repository documents my journey of building **21 Java applications** from beginner to intermediate level. Every project focuses on writing clean, readable, and maintainable code while strengthening software development fundamentals and problem-solving skills.
+This repository documents my journey of building **21 Java console applications** from beginner to intermediate level.
 
-These projects also helped me build a practical Java portfolio while preparing for **Software Development Engineer (SDE-1)** interviews.
+Every project was designed to improve software development fundamentals, problem-solving ability, and practical Java programming skills while preparing for **Software Development Engineer (SDE-1)** interviews.
+
+The repository demonstrates consistent daily coding, clean project organization, documentation, and version control using Git and GitHub.
+
+---
+
+# 📊 Repository Statistics
+
+| Metric | Value |
+|---------|------:|
+| 📁 Total Projects | 21 |
+| ☕ Programming Language | Java |
+| 📄 README Files | 22 |
+| 💻 Console Applications | 21 |
+| 🗓️ Challenge Duration | 21 Days |
+| ✅ Completion | 100% |
 
 ---
 
 # 👨‍💻 Author
 
-**Sai Kumar**
+## Sai Kumar
 
-Aspiring Software Engineer | Java Developer | Google SDE-1 Preparation
+**Aspiring Software Engineer | Java Developer | Google SDE-1 Preparation**
+
+### 🌐 Connect with Me
 
 - GitHub: https://github.com/kadirisaikumar3
 - LinkedIn: https://www.linkedin.com/in/saikumarkadiri/
@@ -249,10 +326,22 @@ Aspiring Software Engineer | Java Developer | Google SDE-1 Preparation
 
 If you found this repository helpful, please consider giving it a ⭐.
 
-It motivates me to continue building more Java projects and sharing them with the developer community.
+Your support motivates me to continue building high-quality Java projects and sharing my learning journey with the developer community.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
 
 ---
 
 <p align="center">
-⭐ Thank you for visiting this repository! ⭐
+
+## ⭐ Thank You for Visiting! ⭐
+
+If you like this repository, don't forget to **Star ⭐** it.
+
+Happy Coding! 🚀
+
 </p>
